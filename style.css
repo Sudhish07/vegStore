@@ -1,0 +1,44 @@
+.card {
+    margin: 20px auto;
+    padding: 10px;
+}
+
+#home {
+    scroll-margin-top: 80px;
+}
+
+.home img {
+    width: 100%;
+}
+
+.item {
+    margin: auto;
+    padding: 20px;
+}
+
+#item h2 {
+    text-align: center;
+}
+
+#item {
+    scroll-margin-top: 65px;
+}
+
+.inner h2 {
+    text-align: center;
+}
+
+.inner {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.inner iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
